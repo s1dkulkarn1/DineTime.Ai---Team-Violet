@@ -1,2 +1,2 @@
-# Milestone2-Team-Violet
+#DineTime.Ai-Team-Violet
 Restaurant Line Planner 
